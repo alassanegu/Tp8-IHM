@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="key_saisie">on</entry>
+<entry key="info_boutons">on</entry>
+<entry key="key_boutons">on</entry>
+<entry key="key_diaporama">on</entry>
+<entry key="info_conversion">on</entry>
+<entry key="saisie">auto</entry>
+<entry key="key_conversion">on</entry>
+<entry key="info_diaporama">on</entry>
+<entry key="boutons">auto</entry>
+<entry key="diaporama">off</entry>
+<entry key="info_saisie">on</entry>
+<entry key="conversion">auto</entry>
+</properties>
